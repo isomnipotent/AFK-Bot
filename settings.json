@@ -6,9 +6,9 @@
     },
   
     "server": {
-      "ip": "localhost",
-      "port": 25565,
-      "version": "1.17.1"
+      "ip": "Soulsociety-4Fn1.aternos.me",
+      "port": 30813,
+      "version": "1.21.3"
     },
   
     "position": {
